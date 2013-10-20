@@ -1,7 +1,7 @@
-Octocats.be
-===============
+octocats-be.github.io
+=====================
 
-Info on official and non-official Github drinkups in Belgium.
+Info on official and non-official Github events in Belgium.
 
 Subscribe to the repository for updates!
 
